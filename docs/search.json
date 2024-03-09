@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "",
+    "text": "Horas teóricas: 20 Horas autónomo-prácticas: 20 Total: 40 horas"
+  },
+  {
+    "objectID": "index.html#duración",
+    "href": "index.html#duración",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "",
+    "text": "Horas teóricas: 20 Horas autónomo-prácticas: 20 Total: 40 horas"
+  },
+  {
+    "objectID": "index.html#horario",
+    "href": "index.html#horario",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Horario:",
+    "text": "Horario:\nSábados 16, 23 de Marzo, 6 y 13 de Abril de 08H30 a 13H30."
+  },
+  {
+    "objectID": "index.html#modalidad",
+    "href": "index.html#modalidad",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Modalidad:",
+    "text": "Modalidad:\nEl curso será impartido 100% en modalidad online."
+  },
+  {
+    "objectID": "index.html#descripción-general-del-curso",
+    "href": "index.html#descripción-general-del-curso",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Descripción General del Curso:",
+    "text": "Descripción General del Curso:\nQuarto es un sistema técnico de publicación de licencia libre, que a través de RStudio, permite la creación de documentos técnicos y científicos de manera sencilla, rápida y reproducible. Representa una actualización al sistema anterior de generación de reportes de R, conocido como Rmarkdown, que aglutina en un solo software una serie de dependencias que usualmente eran de complicada implementación para el usuario inexperto. Por lo tanto, haciendo hoy en día, más accesible el uso de la versatilidad del lenguaje R acompañada de la flexibilidad de producir documentos en formatos con los cuales el público en general está más familiarizado.\nEs así que, el objetivo general de este curso es el brindar al estudiante las herramientas necesarias para realizar de manera independiente análisis estadísticos y presentar sus resultados de una manera profesional mediante el uso de Quarto comprendiendo aspectos desde la limpieza de datos, análisis exploratorio, conducción de pruebas estadísticas básicas hasta la creación de reportes en formatos de Microsoft Office, pdf y html.\nPor tanto, es abierto a toda persona interesada sin pre-requisitos de bases profundas de estadística o de programación."
+  },
+  {
+    "objectID": "index.html#objetivos-de-aprendizaje",
+    "href": "index.html#objetivos-de-aprendizaje",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Objetivos de aprendizaje:",
+    "text": "Objetivos de aprendizaje:\nAl término del curso, el estudiante deberá ser capaz de:\n\nRealizar operaciones básicas en R, tales como: cargar, modificar, limpiar y guardar tablas de datos.\nRealizar gráficos de manera profesional usando R.\nLlevar a cabo análisis exploratorio de datos.\nLlevar a cabo, interpretar y reportar los resultados de metodologías estadísticas tales como: pruebas t, pruebas no paramétricas y análisis de varianza.\nCrear reportes en formatos docx, pptx, pdf y html usando Quarto y R.\nEscribir documentos académicos (por ejemplo una tesis de grado) usando Quarto.\nEntender la factibilidad de crear páginas web en combinación de Quarto y GitHub."
+  },
+  {
+    "objectID": "index.html#contenidos",
+    "href": "index.html#contenidos",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Contenidos",
+    "text": "Contenidos\n\n\n\n\n\n\n\nMódulo\nContenido\n\n\n\n\nMódulo 1: Generalidades e Introducción a R\nDuración: 3 horas\n\nGeneralidades\nIntroducción a R\nTipos de datos en R\nOperadores en R\nTipos de objetos en R\nPaquetes y librerías\nOperaciones básicas\nOperaciones estadísticas básicas\nEstadísticos descriptivos\n\n\n\nMódulo 2: Proyectos en R y buenas prácticas de programación\nDuración: 2 horas\n\nCreación de proyectos en R\nAnatomía de un proyecto en R\nBuenas prácticas de programación\n\n\n\nMódulo 3: Introducción al tidyverse\nDuración: 2 horas\n\nTipos de tablas\nTidy data\nEl tidyverse\nImportación y exportación de datos\nOperaciones con tablas de datos\n\n\n\nMódulo 4: Visualización de datos con ggplot2\nDuración: 3 horas\n\nFunciones de ggplot2\nGeometrías\nEstéticas de geometrías\nFormato de figuras\nAnálisis Exploratorio\n\n\n\nMódulo 5: Breve introducción a la Estadística Inferencial\nDuración: 3 horas\n\nMuestras, poblaciones y muestreos\nParámetros poblacionales y de muestro\nEstimación de parámetros de población.\nIntervalos de confianza\nPruebas de hipótesis\nTipos de errores\nPoder de una prueba estadística\nTamaño del efecto\nColas de una prueba\nPruebas estadísticas paramétricas simples\nPruebas estadísticas no paramétricas\nIntroducción al Análisis de Varianza (ANOVA)\n\n\n\nMódulo 5: Introducción a Quarto\nDuración: 3 horas\n\nIntroducción a Quarto y Rmarkdown\nEstructura de un documento de Quarto\nGeneración de nuestro primer reporte en Quarto\nTipos de documentos que genera Quarto\n\n\n\nMódulo 6: La versatilidad de Quarto\nDuración: 4 horas\n\nBreve introducción a GitHub\nEscribiendo tu tesis en Quarto\nCreación de páginas web con Quarto y GitHub"
+  },
+  {
+    "objectID": "index.html#sobre-el-instructor",
+    "href": "index.html#sobre-el-instructor",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Sobre el instructor:",
+    "text": "Sobre el instructor:\nMauricio Moreno, PhD\nCon un máster en Estadística (KU Leuven) y un doctorado en Bioinformática (Jacobs University Bremen), cuenta con más de diez años de experiencia en programación estadística en R. Ha trabajado como consultor independiente, analista de estadísticas ambientales e investigador postdoctoral. Actualmente, ocupa el puesto de Científico Bioestadístico en Bayer Crop Science, liderando proyectos de investigación y desarrollo, incluyendo la migración de procesos estadísticos de SAS a R y la automatización de análisis de datos."
+  },
+  {
+    "objectID": "materiales.html",
+    "href": "materiales.html",
+    "title": "Materiales",
+    "section": "",
+    "text": "Página en Construcción"
+  }
+]

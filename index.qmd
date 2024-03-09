@@ -1,0 +1,136 @@
+---
+title: "Creación de reportes en Quarto y R"
+---
+
+## Duración:
+
+Horas teóricas: 20 Horas autónomo-prácticas: 20 Total: 40 horas
+
+## Horario:
+
+Sábados 16, 23 de Marzo, 6 y 13 de Abril de 08H30 a 13H30.
+
+## Modalidad:
+
+El curso será impartido 100% en modalidad online.
+
+## Descripción General del Curso:
+
+Quarto es un sistema técnico de publicación de licencia libre, que a través de RStudio, permite la creación de documentos técnicos y científicos de manera sencilla, rápida y reproducible. Representa una actualización al sistema anterior de generación de reportes de R, conocido como Rmarkdown, que aglutina en un solo software una serie de dependencias que usualmente eran de complicada implementación para el usuario inexperto. Por lo tanto, haciendo hoy en día, más accesible el uso de la versatilidad del lenguaje R acompañada de la flexibilidad de producir documentos en formatos con los cuales el público en general está más familiarizado.
+
+Es así que, el objetivo general de este curso es el brindar al estudiante las herramientas necesarias para realizar de manera independiente análisis estadísticos y presentar sus resultados de una manera profesional mediante el uso de Quarto comprendiendo aspectos desde la limpieza de datos, análisis exploratorio, conducción de pruebas estadísticas básicas hasta la creación de reportes en formatos de Microsoft Office, pdf y html.
+
+Por tanto, es abierto a toda persona interesada sin pre-requisitos de bases profundas de estadística o de programación.
+
+## Objetivos de aprendizaje:
+
+Al término del curso, el estudiante deberá ser capaz de:
+
+-   Realizar operaciones básicas en R, tales como: cargar, modificar, limpiar y guardar tablas de datos.
+
+-   Realizar gráficos de manera profesional usando R.
+
+-   Llevar a cabo análisis exploratorio de datos.
+
+-   Llevar a cabo, interpretar y reportar los resultados de metodologías estadísticas tales como: pruebas t, pruebas no paramétricas y análisis de varianza.
+
+-   Crear reportes en formatos docx, pptx, pdf y html usando Quarto y R.
+
+-   Escribir documentos académicos (por ejemplo una tesis de grado) usando Quarto.
+
+-   Entender la factibilidad de crear páginas web en combinación de Quarto y GitHub.
+
+## Contenidos
+
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo                                                      | Contenido                                          |
++=============================================================+====================================================+
+| Módulo 1: Generalidades e Introducción a R                  | 1.  Generalidades                                  |
+|                                                             |                                                    |
+| Duración: 3 horas                                           | 2.  Introducción a R                               |
+|                                                             |                                                    |
+|                                                             | 3.  Tipos de datos en R                            |
+|                                                             |                                                    |
+|                                                             | 4.  Operadores en R                                |
+|                                                             |                                                    |
+|                                                             | 5.  Tipos de objetos en R                          |
+|                                                             |                                                    |
+|                                                             | 6.  Paquetes y librerías                           |
+|                                                             |                                                    |
+|                                                             | 7.  Operaciones básicas                            |
+|                                                             |                                                    |
+|                                                             | 8.  Operaciones estadísticas básicas               |
+|                                                             |                                                    |
+|                                                             | 9.  Estadísticos descriptivos                      |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 2: Proyectos en R y buenas prácticas de programación | 1.  Creación de proyectos en R                     |
+|                                                             |                                                    |
+| Duración: 2 horas                                           | 2.  Anatomía de un proyecto en R                   |
+|                                                             |                                                    |
+|                                                             | 3.  Buenas prácticas de programación               |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 3: Introducción al `tidyverse`                       | 1.  Tipos de tablas                                |
+|                                                             |                                                    |
+| Duración: 2 horas                                           | 2.  Tidy data                                      |
+|                                                             |                                                    |
+|                                                             | 3.  El `tidyverse`                                 |
+|                                                             |                                                    |
+|                                                             | 4.  Importación y exportación de datos             |
+|                                                             |                                                    |
+|                                                             | 5.  Operaciones con tablas de datos                |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 4: Visualización de datos con `ggplot2`              | 1.  Funciones de `ggplot2`                         |
+|                                                             |                                                    |
+| Duración: 3 horas                                           | 2.  Geometrías                                     |
+|                                                             |                                                    |
+|                                                             | 3.  Estéticas de geometrías                        |
+|                                                             |                                                    |
+|                                                             | 4.  Formato de figuras                             |
+|                                                             |                                                    |
+|                                                             | 5.  Análisis Exploratorio                          |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 5: Breve introducción a la Estadística Inferencial   | 1.  Muestras, poblaciones y muestreos              |
+|                                                             |                                                    |
+| Duración: 3 horas                                           | 2.  Parámetros poblacionales y de muestro          |
+|                                                             |                                                    |
+|                                                             | 3.  Estimación de parámetros de población.         |
+|                                                             |                                                    |
+|                                                             | 4.  Intervalos de confianza                        |
+|                                                             |                                                    |
+|                                                             | 5.  Pruebas de hipótesis                           |
+|                                                             |                                                    |
+|                                                             | 6.  Tipos de errores                               |
+|                                                             |                                                    |
+|                                                             | 7.  Poder de una prueba estadística                |
+|                                                             |                                                    |
+|                                                             | 8.  Tamaño del efecto                              |
+|                                                             |                                                    |
+|                                                             | 9.  Colas de una prueba                            |
+|                                                             |                                                    |
+|                                                             | 10. Pruebas estadísticas paramétricas simples      |
+|                                                             |                                                    |
+|                                                             | 11. Pruebas estadísticas no paramétricas           |
+|                                                             |                                                    |
+|                                                             | 12. Introducción al Análisis de Varianza (ANOVA)   |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 5: Introducción a Quarto                             | 1.  Introducción a Quarto y Rmarkdown              |
+|                                                             |                                                    |
+| Duración: 3 horas                                           | 2.  Estructura de un documento de Quarto           |
+|                                                             |                                                    |
+|                                                             | 3.  Generación de nuestro primer reporte en Quarto |
+|                                                             |                                                    |
+|                                                             | 4.  Tipos de documentos que genera Quarto          |
++-------------------------------------------------------------+----------------------------------------------------+
+| Módulo 6: La versatilidad de Quarto                         | 1.  Breve introducción a GitHub                    |
+|                                                             |                                                    |
+| Duración: 4 horas                                           | 2.  Escribiendo tu tesis en Quarto                 |
+|                                                             |                                                    |
+|                                                             | 3.  Creación de páginas web con Quarto y GitHub    |
++-------------------------------------------------------------+----------------------------------------------------+
+
+
+## Sobre el instructor:
+
+Mauricio Moreno, PhD
+
+Con un máster en Estadística (KU Leuven) y un doctorado en Bioinformática (Jacobs University Bremen), cuenta con más de diez años de experiencia en programación estadística en R. Ha trabajado como consultor independiente, analista de estadísticas ambientales e investigador postdoctoral. Actualmente, ocupa el puesto de Científico Bioestadístico en Bayer Crop Science, liderando proyectos de investigación y desarrollo, incluyendo la migración de procesos estadísticos de SAS a R y la automatización de análisis de datos.

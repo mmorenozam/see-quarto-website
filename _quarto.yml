@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Creación de reportes en Quarto y R"
+  image: icon.png
+  favicon: icon.png
+  open-graph: true
+  navbar:
+    logo: icon.png
+    title: false
+    left:
+      - href: index.qmd
+        text: Inicio
+      - materiales.qmd
+      - trabajo.qmd
+      - text: Módulos
+        menu:
+          - text: "Módulo 1"
+            href: "https://mmorenozam.github.io/uce2023-modulo1/"
+
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-title: Contenido
