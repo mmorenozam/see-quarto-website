@@ -18,7 +18,7 @@ website:
       - text: Módulos
         menu:
           - text: "Módulo 1"
-            href: "https://mmorenozam.github.io/uce2023-modulo1/"
+            href: "https://mmorenozam.github.io/see-quarto-modulo1/"
 
 
 format:
