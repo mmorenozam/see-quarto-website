@@ -1,6 +1,24 @@
 ---
-title: "Materiales"
+title: "Materiales y recursos"
 editor: source
 ---
 
-Página en Construcción
+# Recursos extras
+
+## Libros (gratis)
+
+[Learning Statistics with R](https://learningstatisticswithr.com/){target="_blank"} de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.
+
+[Modern Statistics with R](https://modernstatisticswithr.com/){target="_blank"} de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.
+
+[R for Data Science](https://r4ds.hadley.nz/){target="_blank"} de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del `tidyverse`.
+
+[RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/) de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos en para lo que es la manipulación de objetos y estadísticos descriptivos.
+
+## Sitios web
+
+[StackOverflow](https://stackoverflow.com/){target="_blank"}
+
+[towards data science](https://towardsdatascience.com/){target="_blank"}
+
+[STHDA](http://www.sthda.com/english/){target="_blank"}

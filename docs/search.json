@@ -58,8 +58,71 @@
   {
     "objectID": "materiales.html",
     "href": "materiales.html",
-    "title": "Materiales",
+    "title": "Materiales y recursos",
     "section": "",
-    "text": "Página en Construcción"
+    "text": "Learning Statistics with R de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.\nModern Statistics with R de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.\nR for Data Science de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del tidyverse.\nRStudio para Estadística Descriptiva en Ciencias Sociales de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos en para lo que es la manipulación de objetos y estadísticos descriptivos.\n\n\n\nStackOverflow\ntowards data science\nSTHDA"
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "Creación de reportes en Quarto y R",
+    "section": "Contacto:",
+    "text": "Contacto:\nPuedes escribirme al correo: mmorenozambrano@protonmail.com"
+  },
+  {
+    "objectID": "trabajo.html",
+    "href": "trabajo.html",
+    "title": "Trabajo final",
+    "section": "",
+    "text": "Al finalizar el curso, el estudiante deberá entregar un trabajo donde ponga en práctica lo aprendido. Este trabajo podrá ser entregado hasta la media noche del día 30 de Abril al correo electrónico del instructor."
+  },
+  {
+    "objectID": "materiales.html#libros-gratis",
+    "href": "materiales.html#libros-gratis",
+    "title": "Materiales y recursos",
+    "section": "",
+    "text": "Learning Statistics with R de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.\nModern Statistics with R de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.\nR for Data Science de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del tidyverse.\nRStudio para Estadística Descriptiva en Ciencias Sociales de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos en para lo que es la manipulación de objetos y estadísticos descriptivos."
+  },
+  {
+    "objectID": "materiales.html#sitios-web",
+    "href": "materiales.html#sitios-web",
+    "title": "Materiales y recursos",
+    "section": "",
+    "text": "StackOverflow\ntowards data science\nSTHDA"
+  },
+  {
+    "objectID": "trabajo.html#fecha-de-entrega",
+    "href": "trabajo.html#fecha-de-entrega",
+    "title": "Trabajo final",
+    "section": "",
+    "text": "Al finalizar el curso, el estudiante deberá entregar un trabajo donde ponga en práctica lo aprendido. Este trabajo podrá ser entregado hasta la media noche del día 30 de Abril al correo electrónico del instructor."
+  },
+  {
+    "objectID": "trabajo.html#opciones-del-trabajo",
+    "href": "trabajo.html#opciones-del-trabajo",
+    "title": "Trabajo final",
+    "section": "Opciones del trabajo",
+    "text": "Opciones del trabajo\nEste podrá ser, entre otras opciones:\n\nUn reporte estadístico de alguna base de datos: Ya sea en formato html, docx o pdf. El mismo deberá contener las siguientes secciones:\n\n\nResumen: Párrafo describiendo el problema a resolver (hipótesis de investigación), descripción de los métodos estadísticos usados, y mención de los resultados más importantes.\nIntroducción: Párrafo describiendo el estado actual de la pregunta de investigación (breve investigación bibliográfica) y que es lo nuevo que brinda el reporte con respecto a lo que ya se haya hecho antes.\nMétodos: Descripción de la base de datos, técnicas estadísticas usadas para analizar los datos y cualquier otro aspecto que merezca ser mencionado (limpieza de datos, supuestos usados, etc).\nResultados: Gráficos, tablas, etc.\nConclusiones: Se respondió o no la pregunta de investigación, qué hemos aprendido que antes no se había descrito. Si los resultados son “negativos”, no tener recelo en presentarlos. Idealmente, toda investigación debe ser reportada independientemente de si los resultados confirman o no la pregunta de investigación.\nBibliografía: cualquier formato es aceptado, libre a escoger por cada estudiante.\n\n\nPresentación: Ya sea en formato html, pptx o pdf conteniendo las mismas secciones que en 1 a excepción de la bibliografía (en caso de incluir citas en las diapositivas, las citas deben ser hechas como pies de diapositiva).\nPortafolio/página web: Para esta opción, el estudiante deberá crear una página web o portafolio a través de Github. La temática del portafolio es libre."
+  },
+  {
+    "objectID": "trabajo.html#instrucciones-para-la-presentación-del-trabajo",
+    "href": "trabajo.html#instrucciones-para-la-presentación-del-trabajo",
+    "title": "Trabajo final",
+    "section": "Instrucciones para la presentación del trabajo",
+    "text": "Instrucciones para la presentación del trabajo\n\nIndependientemente de la opción que escoja el estudiante, se deberá presentar el código fuente que generó el documento.\nEn caso de no crear un repositorio de Github para las opciones 1 y 2, se deberá entregar en un archivo .zip el proyecto de R que contiene el trabajo y el documento renderizado.\nEn caso de haber creado un repositorio de Github para las opciones 1 y 2, se deberá entregar únicamente el documento renderizado acompañado del link del repositorio.\nPara la opción 3, solo se puede presentar usando un repositorio de Github. El estudiante deberá enviar las direcciones electrónicas del repositorio y la página web/portafolio."
+  },
+  {
+    "objectID": "trabajo.html#sobre-la-evaluación-del-trabajo",
+    "href": "trabajo.html#sobre-la-evaluación-del-trabajo",
+    "title": "Trabajo final",
+    "section": "Sobre la evaluación del trabajo",
+    "text": "Sobre la evaluación del trabajo\n\nPara la aprobación del curso, el requisito mínimo es la presentación del trabajo final usando cualquiera de las opciones anteriormente mencionadas.\nEl intructor proveerá comentarios y consejos de como mejorar la presentación de resultados. Además, corregirá errores de interpretación o redacción de conclusiones estadísticas.\nLa idea es que el estudiante aprenda a desarrollar un pensamiento estadístico apropiado en lugar de proveer soluciones puntuales como lo serían la resolución de problemas con una única respuesta. En otras palabras, se busca motivar la interpretación crítica de resultados de problemas abiertos."
+  },
+  {
+    "objectID": "trabajo.html#ayuda-durante-la-realización-del-trabajo",
+    "href": "trabajo.html#ayuda-durante-la-realización-del-trabajo",
+    "title": "Trabajo final",
+    "section": "Ayuda durante la realización del trabajo",
+    "text": "Ayuda durante la realización del trabajo\n\nEl estudiante puede sentirse libre de contactar al instructor al correo electrónico mmorenozambrano@protonmail.com."
   }
 ]

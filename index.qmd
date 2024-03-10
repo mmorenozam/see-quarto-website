@@ -134,3 +134,7 @@ Al término del curso, el estudiante deberá ser capaz de:
 Mauricio Moreno, PhD
 
 Con un máster en Estadística (KU Leuven) y un doctorado en Bioinformática (Jacobs University Bremen), cuenta con más de diez años de experiencia en programación estadística en R. Ha trabajado como consultor independiente, analista de estadísticas ambientales e investigador postdoctoral. Actualmente, ocupa el puesto de Científico Bioestadístico en Bayer Crop Science, liderando proyectos de investigación y desarrollo, incluyendo la migración de procesos estadísticos de SAS a R y la automatización de análisis de datos.
+
+## Contacto:
+
+Puedes escribirme al correo: **mmorenozambrano\@protonmail.com**
