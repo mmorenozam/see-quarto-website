@@ -9,7 +9,7 @@ Al finalizar el curso, el estudiante deberá entregar un trabajo donde ponga en 
 
 ## Opciones del trabajo
 
-Este podrá ser, entre otras opciones:
+Este podrá ser:
 
 1.    **Un reporte estadístico de alguna base de datos**: Ya sea en formato html, docx o pdf. El mismo deberá contener las siguientes secciones:
 

@@ -4,7 +4,11 @@ title: "Creación de reportes en Quarto y R"
 
 ## Duración:
 
-Horas teóricas: 20 Horas autónomo-prácticas: 20 Total: 40 horas
+Horas teóricas: 20 
+
+Horas autónomo-prácticas: 20 
+
+Total: 40
 
 ## Horario:
 
