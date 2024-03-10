@@ -19,6 +19,8 @@ website:
         menu:
           - text: "Módulo 1"
             href: "https://mmorenozam.github.io/see-quarto-modulo1/"
+          - text: "Módulo 2"
+            href: "https://mmorenozam.github.io/see-quarto-modulo2/"
 
 
 format:
