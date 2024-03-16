@@ -11,7 +11,7 @@ editor: source
 
 [Modern Statistics with R](https://modernstatisticswithr.com/){target="_blank"} de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.
 
-[R for Data Science](https://r4ds.hadley.nz/){target="_blank"} de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del `tidyverse`.
+[R for Data Science](https://r4ds.hadley.nz/){target="_blank"} de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta la implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del `tidyverse`.
 
 [RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/) de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos para la transformación de objetos y conducción de estadísticos descriptivos.
 
