@@ -26,6 +26,9 @@ website:
           - text: "Módulo 3"
             href: "https://mmorenozam.github.io/see-quarto-modulo3/"
             target: "_blank"
+          - text: "Módulo 4"
+            href: "https://mmorenozam.github.io/see-quarto-modulo4/"
+            target: "_blank"
 
 
 format:
