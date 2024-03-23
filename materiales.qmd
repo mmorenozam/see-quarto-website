@@ -3,6 +3,18 @@ title: "Materiales y recursos"
 editor: source
 ---
 
+# Tablas de datos extras (usadas en las diapositivas)
+
+| Nombre      | Descripción                                                                                                                                                  |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| rotXLS.xlsx | Datos históricos de casos de rotavirus y variables ambientales de la ciudad de Berlin                                                                        |
+| titatic.csv | Datos de sobrevivientes del Titanic en varios niveles de agregación (ejemplo, por género)                                                                    |
+| touchon.csv | Datos de depredadores de la rana arbórea de ojos rojos (investigación del [Prof. Justin C. Touchon](https://www.jstor.org/stable/23436298){target="_blank"}) |
+
+Se encuentran disponibles [**AQUI**](https://drive.google.com/file/d/1hy542F5j9OsucWlr8m_R9OaX4lRdDTc1/view?usp=drive_link){target="_blank"}
+
+
+
 # Recursos extras
 
 ## Libros (gratis)

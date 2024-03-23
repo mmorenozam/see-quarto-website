@@ -60,7 +60,7 @@
     "href": "materiales.html",
     "title": "Materiales y recursos",
     "section": "",
-    "text": "Learning Statistics with R de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.\nModern Statistics with R de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.\nR for Data Science de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta la implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del tidyverse.\nRStudio para Estadística Descriptiva en Ciencias Sociales de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos para la transformación de objetos y conducción de estadísticos descriptivos.\n\n\n\nStackOverflow\ntowards data science\nSTHDA"
+    "text": "Nombre\nDescripción\n\n\n\n\nrotXLS.xlsx\nDatos históricos de casos de rotavirus y variables ambientales de la ciudad de Berlin\n\n\ntitatic.csv\nDatos de sobrevivientes del Titanic en varios niveles de agregación (ejemplo, por género)\n\n\ntouchon.csv\nDatos de depredadores de la rana arbórea de ojos rojos (investigación del Prof. Justin C. Touchon)\n\n\n\nSe encuentran disponibles AQUI"
   },
   {
     "objectID": "index.html#contacto",
@@ -80,15 +80,15 @@
     "objectID": "materiales.html#libros-gratis",
     "href": "materiales.html#libros-gratis",
     "title": "Materiales y recursos",
-    "section": "",
-    "text": "Learning Statistics with R de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.\nModern Statistics with R de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.\nR for Data Science de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta la implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del tidyverse.\nRStudio para Estadística Descriptiva en Ciencias Sociales de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos para la transformación de objetos y conducción de estadísticos descriptivos."
+    "section": "Libros (gratis)",
+    "text": "Libros (gratis)\nLearning Statistics with R de Danielle Navarro: excelente libro para comenzar el viaje de aprendizaje de R. Explica conceptos estadísticos de una manera sencilla y evitando complicadas fórmulas tanto como puede.\nModern Statistics with R de Måns Thulin: es un ebook que abarca a mayor profundidad aspectos de operaciones con bases de datos y modelos estadísticos más complejos que los que cubrimos en el curso.\nR for Data Science de Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund: es un excelente recurso para llevar a cabo modelamiento de datos desde los principios más básicos hasta la implementación de flujos de trabajo para producción. Está bastante focalizado en el uso del tidyverse.\nRStudio para Estadística Descriptiva en Ciencias Sociales de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone: es un ebook que contiene buena información en español sobre R. Al menos para la transformación de objetos y conducción de estadísticos descriptivos."
   },
   {
     "objectID": "materiales.html#sitios-web",
     "href": "materiales.html#sitios-web",
     "title": "Materiales y recursos",
-    "section": "",
-    "text": "StackOverflow\ntowards data science\nSTHDA"
+    "section": "Sitios web",
+    "text": "Sitios web\nStackOverflow\ntowards data science\nSTHDA"
   },
   {
     "objectID": "trabajo.html#fecha-de-entrega",
