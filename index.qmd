@@ -95,7 +95,7 @@ Al término del curso, el estudiante deberá ser capaz de:
 +-------------------------------------------------------------+----------------------------------------------------+
 | Módulo 5: Breve introducción a la Estadística Inferencial   | 1.  Muestras, poblaciones y muestreos              |
 |                                                             |                                                    |
-| Duración: 3 horas                                           | 2.  Parámetros poblacionales y de muestro          |
+| Duración: 5 horas                                           | 2.  Parámetros poblacionales y de muestro          |
 |                                                             |                                                    |
 |                                                             | 3.  Estimación de parámetros de población.         |
 |                                                             |                                                    |
@@ -117,17 +117,17 @@ Al término del curso, el estudiante deberá ser capaz de:
 |                                                             |                                                    |
 |                                                             | 12. Introducción al Análisis de Varianza (ANOVA)   |
 +-------------------------------------------------------------+----------------------------------------------------+
-| Módulo 5: Introducción a Quarto                             | 1.  Introducción a Quarto y Rmarkdown              |
+| Módulo 6: Introducción a Quarto                             | 1.  Introducción a Quarto y Rmarkdown              |
 |                                                             |                                                    |
-| Duración: 3 horas                                           | 2.  Estructura de un documento de Quarto           |
+| Duración: 2 horas                                           | 2.  Estructura de un documento de Quarto           |
 |                                                             |                                                    |
 |                                                             | 3.  Generación de nuestro primer reporte en Quarto |
 |                                                             |                                                    |
 |                                                             | 4.  Tipos de documentos que genera Quarto          |
 +-------------------------------------------------------------+----------------------------------------------------+
-| Módulo 6: La versatilidad de Quarto                         | 1.  Breve introducción a GitHub                    |
+| Módulo 7: La versatilidad de Quarto                         | 1.  Breve introducción a GitHub                    |
 |                                                             |                                                    |
-| Duración: 4 horas                                           | 2.  Escribiendo tu tesis en Quarto                 |
+| Duración: 3 horas                                           | 2.  Escribiendo tu tesis en Quarto                 |
 |                                                             |                                                    |
 |                                                             | 3.  Creación de páginas web con Quarto y GitHub    |
 +-------------------------------------------------------------+----------------------------------------------------+

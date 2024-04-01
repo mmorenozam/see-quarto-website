@@ -29,7 +29,15 @@ website:
           - text: "Módulo 4"
             href: "https://mmorenozam.github.io/see-quarto-modulo4/"
             target: "_blank"
-
+          - text: "Módulo 5"
+            href: "https://mmorenozam.github.io/see-quarto-modulo5/"
+            target: "_blank"
+          - text: "Módulo 6"
+            href: "https://mmorenozam.github.io/see-quarto-modulo6/"
+            target: "_blank"
+          - text: "Módulo 7"
+            href: "https://mmorenozam.github.io/see-quarto-modulo7/"
+            target: "_blank"
 
 format:
   html:
