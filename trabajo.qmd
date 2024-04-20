@@ -5,7 +5,7 @@ editor: source
 
 ## Fecha de entrega
 
-Al finalizar el curso, el estudiante deberá entregar un trabajo donde ponga en práctica lo aprendido. Este trabajo podrá ser entregado hasta la **media noche del día 30 de Abril** al correo electrónico del instructor.
+Al finalizar el curso, el estudiante deberá entregar un trabajo donde ponga en práctica lo aprendido. Este trabajo podrá ser entregado hasta la **media noche del día 11 de Mayo** al correo electrónico del instructor.
 
 ## Opciones del trabajo
 
@@ -24,7 +24,7 @@ Este podrá ser:
 
 -   Conclusiones: Se respondió o no la pregunta de investigación, qué hemos aprendido que antes no se había descrito. Si los resultados son "negativos", no tener recelo en presentarlos. Idealmente, toda investigación debe ser reportada independientemente de si los resultados confirman o no la pregunta de investigación.
 
--   Bibliografía: cualquier formato es aceptado, libre a escoger por cada estudiante.
+-   Bibliografía: cualquier formato es aceptado, libre a escoger por cada estudiante (recomendado APA).
 
 2.    **Presentación**: Ya sea en formato html, pptx o pdf conteniendo las mismas secciones que en 1 a excepción de la bibliografía (en caso de incluir citas en las diapositivas, las citas deben ser hechas como pies de diapositiva).
 
